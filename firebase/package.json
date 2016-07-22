@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chai": "^3.5.0",
+    "firebase": "^3.2.0",
+    "mocha": "^2.5.3"
+  }
+}
